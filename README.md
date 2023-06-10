@@ -20,10 +20,3 @@ Comparing the two approaches, we find that imputation with discrete values gener
 
 However, it is important to exercise caution while imputing values, as it introduces assumptions about the missing data. The choice of imputation technique and the quality of the imputed values can influence the overall accuracy of the model. It is advisable to evaluate different imputation methods and select the one that best suits the dataset and the specific problem at hand.
 
-## Conclusion
-
-In this lesson, we explored three approaches to handle missing values in supervised learning models. We discussed the option of dropping entire columns, highlighting its potential drawbacks in terms of accuracy. We then introduced imputation with discrete values as a more effective approach, preserving data integrity and improving model performance.
-
-When handling missing values, it is essential to assess the trade-offs between data loss and accuracy improvement. By employing appropriate imputation techniques, we can enhance the robustness of our supervised learning models and make more accurate predictions.
-
-Remember to consider the specifics of your dataset and the problem you are trying to solve when choosing the most suitable approach for handling missing values.
