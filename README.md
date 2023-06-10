@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In supervised learning models, missing values in the dataset can pose challenges for accurate predictions. In this lesson, we will explore three different approaches to handle missing values: dropping entire columns, imputation with discrete values, and their impact on data accuracy.
+In supervised learning models, missing values in the dataset can pose challenges for accurate predictions. I explored three different approaches to handle missing values: dropping entire columns, imputation with discrete values, and their impact on data accuracy.
 
 ## Approach 1: Dropping Entire Columns
 
